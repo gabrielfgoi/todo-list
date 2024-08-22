@@ -27,7 +27,7 @@ Escolhi utilizar DynamoDB pela sua escalabilidade e integração fácil com outr
 ## Configuração
 
 ### 1. Clonar o Repositório
-git clone https://github.com/gabrielfgoi/todo-api
+git clone https://github.com/gabrielfgoi/todo-list
 
 ### 2. Instalar Dependências
 npm install
